@@ -1,7 +1,1 @@
-#Curso Git
-
-Repositorio teste do git
-
-Saiba mais em github.com
-
-novo conteudo
+#Repositorio para teste de conceitos avancados no Git
